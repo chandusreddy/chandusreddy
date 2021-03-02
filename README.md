@@ -1,5 +1,4 @@
-### Helloo 👋
-Myself Chandu, Working as an Application Developer with main platform as Java, I love upgrading myself as how we update the Software Technologies ! 😄 
+### Helloo 👋 Myself Chandu, Working as an Application Developer with main platform as Java, I love upgrading myself as how we update the Software Technologies ! 😄 
 
 <!--
 **chandusreddy/chandusreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
